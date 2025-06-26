@@ -1,5 +1,6 @@
 .mainContainer {
   display: flex;
+  justify-content: center;
   flex-direction: column;
   align-items: center;
   padding: 2rem;
@@ -22,7 +23,7 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-/* Make it responsive on wider screens */
+
 @media (min-width: 768px) {
   .mainContainer {
     flex-direction: row;
