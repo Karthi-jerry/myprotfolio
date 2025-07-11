@@ -4,21 +4,22 @@ import './Projects.css';
 function Projects() {
   const projectList = [
     {
-      title: 'Task Management App',
-      description: 'A full-stack app built with React and Spring Boot to assign and track tasks for teams.',
-      github: 'https://github.com/karthi-jerry/task-management-app',
-      demo: 'https://task-manager-demo.vercel.app',
+      title: 'Online Notes App',
+      description: 'A full-stack app built with React and Spring Boot to Add ,And Delete, Color Greantiant .',
+      github: 'https://github.com/karthi-jerry/online-notes-frontend ',
+      
+      
     },
     {
       title: 'Todo App',
       description: 'A simple todo app built with React and local storage.',
-      github: 'https://github.com/karthi-jerry/todo-app',
-      demo: '',
+      github: 'https://github.com/karthi-jerry/todolistproject',
+      demo: 'https://karthi-jerry.github.io/todolistproject/',
     },
     {
       title: 'Personal Portfolio',
       description: 'This portfolio site built using React, showcasing my projects and skills.',
-      github: 'https://github.com/karthi-jerry/portfolio',
+      github: 'https://github.com/karthi-jerry/myprotfolio',
       demo: '',
     },
   ];

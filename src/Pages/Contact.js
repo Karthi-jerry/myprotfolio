@@ -11,10 +11,10 @@ function Contact() {
         <p><strong>Email:</strong> karthikutty1040746@gmail.com</p>
         <p><strong>Location:</strong> Tamil Nadu, India</p>
         <p>
-          <strong>GitHub:</strong> <a href="https://karthi-jerry.github.io/todolistproject" target="_blank" rel="noreferrer">github.com/karthi-jerry</a>
+          <strong>GitHub:</strong> <a href="https://github.com/karthi-jerry" target="_blank" rel="noreferrer">github.com/karthi-jerry</a>
         </p>
         <p>
-          <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank" rel="noreferrer">linkedin.com/in/YOUR-LINKEDIN-ID</a>
+          <strong>LinkedIn:</strong> <a href="linkedin.com/in/karthickmuthupandi" target="_blank" rel="noreferrer">linkedin.com/in/karthickmuthupandi</a>
         </p>
       </div>
     </div>
